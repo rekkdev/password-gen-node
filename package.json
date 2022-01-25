@@ -1,0 +1,19 @@
+{
+  "name": "password-gen-node",
+  "version": "1.0.0",
+  "description": "a tool to generate passwords",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "passwordgen"
+  },
+  "author": "pislify",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}
